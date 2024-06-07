@@ -1,5 +1,5 @@
-# tictoe
-A simple tic toe terminal game
+# Tris (Tic-tac-toe)
+A simple Tris terminal game
 
 **USAGE**: python tictoe.py
 
